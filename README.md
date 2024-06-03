@@ -1,4 +1,4 @@
-# R-Analysis-of-Sales-Data-pen_spark
+# R-Analysis-of-Sales-Data
 
 This document outlines the process of analyzing sales data using R. The code provided performs data loading, cleaning, and basic analysis, providing insights into sales performance.
 
